@@ -1,2 +1,2 @@
 # TensorFlow-Tutorial-by-Handwritten-Digit-Recognition
-Train an MLP with TensorFlow to solve the handwritten digit recognition problem
+Learn TensorFlow by solving the handwritten digit recognition problem
