@@ -1,2 +1,2 @@
 # TensorFlow-Tutorial-by-Handwritten-Digit-Recognition
-Learn TensorFlow by solving the handwritten digit recognition problem
+Show how to use TensorFlow by the handwritten digit recognition example 
